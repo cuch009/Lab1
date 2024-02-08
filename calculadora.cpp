@@ -29,7 +29,7 @@ int main() {
             if (num2 != 0) {
                 resultado = num1 / num2;
             } else {
-                cout << "Error: No se puede dividir por cero." << endl;
+                cout << "No se puede dividir por cero." << endl;
                 return 1; 
             }
             break;
